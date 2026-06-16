@@ -1,6 +1,6 @@
 # spoodyPlayerlist
 ### Simple, advanced player-list UI for in-game voice chat control.
-A clean, lightweight player list that lets your players see who's connected and adjust each other's voice chat volume on the fly — mute someone entirely or fine-tune their volume with a slider. Built on `ox_lib` and native Mumble voice.
+### A clean, lightweight player list that lets your players see who's connected and adjust each other's voice chat volume on the fly — mute someone entirely or fine-tune their volume with a slider. Built on `ox_lib` and native Mumble voice.
 ---
 ## Preview
 ![spoodyPlayerlist – player list](https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/Screenshot_2.png)
