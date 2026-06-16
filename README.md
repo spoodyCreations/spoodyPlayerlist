@@ -9,9 +9,7 @@ A clean, lightweight player list that lets your players see who's connected and 
 ## Preview
 
 ![spoodyPlayerlist – player list](https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/Screenshot_2.png)
-![spoodyPlayerlist – volume control]([images/preview-2.png](https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/Screenshot_1.png))
-
-> Drop your screenshots into an `images/` folder in the repo (or update the paths above) and they'll render here.
+![spoodyPlayerlist – volume control](https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/Screenshot_1.png)
 
 ---
 
@@ -97,5 +95,5 @@ Need help or want more premium escrowed scripts? Check out the store:
 </a>
 
 <a href="https://discord.gg/spoody">
-  <img src="https://img.shields.io/badge/Tebex-spoody.store-5865F2?style=for-the-badge" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-spoody-5865F2?style=for-the-badge" alt="Discord" />
 </a>
