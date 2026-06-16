@@ -62,7 +62,7 @@ Config = {
 Need help or want more premium escrowed scripts? Check out the store:
 
 <a href="https://spoody.store">
-  <img src="[YOUR_TEBEX_IMAGE_URL](https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/tebex_banner.png)" alt="Tebex Store" width="400" />
+  <img src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/tebex_banner.png" alt="Tebex Store" width="400" />
 </a>
 
 [Discord Invite](https://discord.gg/spoody)
